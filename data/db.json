@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner",
+      "details": "Lorem ipsum\n",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Make marketing emails",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 3,
+      "title": "Make resume",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "abc",
+      "details": "asdasds",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "design a new web app",
+      "details": "design a new web app for the next 2 weeks",
+      "complete": true,
+      "id": 5
+    }
+  ]
+}
